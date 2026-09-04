@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/gon/main/.github/assets/thumbnail.png" alt="gon" width="100%">
+</p>
+
 # gon
 
 A calm GitHub Actions workflow that gently reviews Dependabot pull requests and provides a clear, human-readable summary to support thoughtful merges.

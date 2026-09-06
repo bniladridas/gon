@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/dependabot-review/main/.github/assets/thumbnail.png" alt="dependabot-review" width="100%">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/coccinella-labs/dependabot-review/main/.github/assets/thumbnail.png" alt="dependabot-review" width="100%">
 </p>
 

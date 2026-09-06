@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/gon/main/.github/assets/thumbnail.png" alt="gon" width="100%">
+  <img src="https://raw.githubusercontent.com/coccinella-labs/dependabot-review/main/.github/assets/thumbnail.png" alt="dependabot-review" width="100%">
 </p>
 
 # gon
@@ -203,3 +203,4 @@ Please open an issue to discuss a change, followed by a pull request implementin
 Automation should assist quietly.
 
 gon exists to reduce noise and provide calm guidance without blocking, enforcing, or interrupting existing workflows.
+
